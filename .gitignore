@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.idea/workspace.xml
+frontend/public/favicon.ico
+frontend/package.json
+frontend/package-lock.json
+backend/src/main/resources/application.properties
+backend/gradlew.bat
+backend/settings.gradle
+backend/build.gradle
+backend/gradle/wrapper/gradle-wrapper.properties
+backend/gradlew
+frontend/babel.config.js
